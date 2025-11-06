@@ -1,7 +1,7 @@
 import React from "react";
 import axios from "axios";
 
-const API_URL = "https://backend-fs-d-uxly.onrender.com/api/personas";
+const API_URL = "https://backend-fs-d-1-s3e4.onrender.com/api/personas";
 
 function PersonaForm() {
   const [nombre, setNombre] = useState("");
